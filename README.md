@@ -4,6 +4,5 @@
 - I’m currently working on Java, TypeScript, C#
 - My Email: yosa12978@gmail.com
 
-![Twitter Follow](https://img.shields.io/twitter/follow/yosaa5782?style=social)
-
-![GitHub followers](https://img.shields.io/github/followers/yosa12978?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yosaa5782?style=social)](https://github.com/yosa12978)
+[![GitHub followers](https://img.shields.io/github/followers/yosa12978?style=social)](https://twitter.com/yosaa5782)
