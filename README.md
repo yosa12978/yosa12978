@@ -1,6 +1,7 @@
 ### Yosa12978
 
-- Bitcoin: bc1qv257t0hnlypfds5x523xqu6xgepqm22lyuy4rd
+- Bitcoin: 36jW1LyMEicXFLrQLnFnswqc1hxBEkrhwJ
+- Ethereum: 0xaD7c500FD3947E85d64CbF6A5d1D31372ed0601A
 - I’m currently working on C#, Java, TypeScript
 - My Email: yosa12978@gmail.com
 
