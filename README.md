@@ -3,6 +3,7 @@
 - Ethereum: 0xaD7c500FD3947E85d64CbF6A5d1D31372ed0601A
 
 [yosa12978@gmail.com](yosa12978@gmail.com)
+
 [My LinkedIn](https://www.linkedin.com/in/yusuf-yakubov-646120214/)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/yosaa5782?style=social)](https://twitter.com/yosaa5782)
