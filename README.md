@@ -2,7 +2,7 @@
 - Bitcoin: 36jW1LyMEicXFLrQLnFnswqc1hxBEkrhwJ
 - Ethereum: 0xaD7c500FD3947E85d64CbF6A5d1D31372ed0601A
 
-[yosa12978@gmail.com](yosa12978@gmail.com)
+Contact email: yusuf_yakubov@hotmail.com
 
 [My LinkedIn](https://www.linkedin.com/in/yusuf-yakubov-646120214/)
 
