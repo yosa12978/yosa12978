@@ -4,7 +4,5 @@
 
 Contact email: <yusuf_yakubov@hotmail.com>
 
-[My LinkedIn](https://www.linkedin.com/in/yusuf-yakubov-646120214/)
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/squark_usr?style=social)](https://twitter.com/squark_usr)
 [![GitHub followers](https://img.shields.io/github/followers/yosa12978?style=social)](https://github.com/yosa12978)
