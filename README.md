@@ -2,7 +2,9 @@
 
 My name is Yusuf
 
-👯 I’m looking to collaborate on: C#, Golang or Node.js related projects
+👯 I'm looking to collaborate on: C#, Golang or Node.js related projects
+
+📚 I'm learning Rust now
 
 📫 How to reach me: <yusuf_yakubov@hotmail.com>
 
