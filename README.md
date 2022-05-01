@@ -4,7 +4,7 @@ My name is Yusuf
 
 👯 I'm looking to collaborate on: C#, Golang or Node.js related projects
 
-📚 I'm learning Rust now
+📚 I'm learning Number Theory now
 
 📫 How to reach me: <yusuf_yakubov@hotmail.com>
 
