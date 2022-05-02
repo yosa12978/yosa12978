@@ -5,9 +5,9 @@ I like math and comp sci.
 
 👯 I'm looking to collaborate on: C#, Golang or Node.js related projects
 
-📚 I'm learning Number Theory now
+📚 I'm learning number theory now
 
-📫 How to reach me: <yusuf_yakubov@hotmail.com>
+📫 How to reach me: <yosaa5782@gmail.com>
 
 [![Repo stats](https://github-readme-stats.vercel.app/api?username=yosa12978&show_icons=true&theme=onedark)]()
 
