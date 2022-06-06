@@ -5,7 +5,7 @@ I like math and comp sci.
 
 👯 I'm looking to collaborate on: C#, Golang or Node.js related projects
 
-📚 I'm learning number theory now
+📚 I'm learning competitive programming now
 
 📫 How to reach me: <yosaa5782@gmail.com>
 
