@@ -3,9 +3,7 @@
 My name is Yusuf
 I like math and comp sci.
 
-👯 I'm looking to collaborate on: C#, Golang, Python or Node.js related projects
-
-📚 I'm learning competitive programming now
+I'm looking to collaborate on: C#, Golang, Python or Node.js related projects
 
 📫 How to reach me: <yosaa5782@gmail.com>
 
