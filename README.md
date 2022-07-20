@@ -1,7 +1,7 @@
 # Hi there 👋
 
 My name is Yusuf
-I like math and comp sci.
+I like programming.
 
 I'm looking to collaborate on: C#, Golang, Java, Python or Node.js related projects
 
