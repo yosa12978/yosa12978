@@ -1,7 +1,6 @@
 # Hi there 👋
 
-My name is Yusuf
-I like programming.
+My name is Yusuf and I like programming.
 
 I'm looking to collaborate on: C#, Golang, Java, Python or Node.js related projects
 
