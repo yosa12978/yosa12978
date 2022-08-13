@@ -2,11 +2,9 @@
 
 My name is Yusuf and I like programming.
 
-I'm looking to collaborate on: C#, Golang, Python or C/C++ related projects
+I'm looking to collaborate on: C#, Golang, Python, Java or C/C++ related projects
 
 📫 How to reach me: <yosaa5782@gmail.com>
-
-![](https://imgs.xkcd.com/comics/travelling_salesman_problem.png)
 
 ### Support me with donations
 - Bitcoin: 33RccWBT9R3ypEJ4pg8B67k2z5j5Caga2w
