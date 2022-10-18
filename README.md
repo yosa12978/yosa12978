@@ -7,5 +7,5 @@ I'm looking to collaborate on: C#, Golang, Java, Python or C/C++ related project
 📫 How to reach me: <yosaa5782@gmail.com>
 
 ### Support me with donations
-- Bitcoin: 33RccWBT9R3ypEJ4pg8B67k2z5j5Caga2w
-- Ethereum: 0xaD7c500FD3947E85d64CbF6A5d1D31372ed0601A
+- Ethereum: 0x1CbEE5704C18b796Aea3c42faED3Ae8607a6f72B
+- Bitcoin: 1EohTwzQavTADcqSecAju3c2ZSAgN65LvK
